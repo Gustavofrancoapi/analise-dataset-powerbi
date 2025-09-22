@@ -1,0 +1,12 @@
+select (*) from smart_logistics_dataset1;
+
+select COUNT (*) as quantidade_rotas
+from smart_logistics_dataset1 ;
+
+select sum(c11) as custo_total from smart_logistics_dataset1;
+
+select count (*)  from smart_logistics_dataset1
+where c9 = 'Heavy';
+
+select count (*)  from smart_logistics_dataset1
+where c9 = 'Clear';
