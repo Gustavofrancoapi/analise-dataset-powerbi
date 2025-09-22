@@ -23,3 +23,24 @@ Este projeto consiste no levantamento e tratamento de dados de empresa ficticia 
 
 <img width="1017" height="568" alt="image" src="https://github.com/user-attachments/assets/098f08ef-55af-4f0f-a0a0-5c7c943607a7" />
 
+
+Consultas e análises SQL - SQLite
+
+Consultas chave e levantamento de informações importantes para tomada de decisões
+
+Principais consultas realizadas:
+
+Contagem de quantidade de rotas realizadas em 2024;
+
+Levantamento do custo total das operações logísticas;
+
+Contagem de fretes que classificação de tráfego pesado;
+
+Contagem de fretes que classificação de tráfego leve.
+
+
+Imagem 2 - Consultas SQLite Online
+
+<img width="1397" height="437" alt="image" src="https://github.com/user-attachments/assets/223bcf11-9dff-4410-8b62-52f63c1ed3f9" />
+
+
