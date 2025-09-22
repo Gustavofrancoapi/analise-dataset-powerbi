@@ -6,6 +6,7 @@ Este projeto consiste no levantamento e tratamento de dados de empresa ficticia 
 📊 Dashboard - Power BI - Template 1
 
 • Filtros dinâmicos para status do tráfego, motivos de atrasos e meses do ano de 2024.
+
 • Principais insights:
 
 • Quantidade de rotas realizadas.
