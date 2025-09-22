@@ -23,8 +23,8 @@ Este projeto consiste no levantamento e tratamento de dados de empresa ficticia 
 
 • Imagem 1 - Dashboard Dataset
 
-<img width="1017" height="568" alt="image" src="https://github.com/user-attachments/assets/098f08ef-55af-4f0f-a0a0-5c7c943607a7" />
 
+<img width="1308" height="737" alt="Template0" src="https://github.com/user-attachments/assets/0abe6922-b4c1-4f52-ab41-590d1bc1350f" />
 
 
 🔑 Consultas e análises SQL - SQLite
